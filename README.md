@@ -96,7 +96,7 @@ int main() {
 
 ##OUTPUT
 
-<img width="810" height="463" alt="image" src="https://github.com/user-attachments/assets/a8779227-56ed-4a73-a4b9-cfd6a8dbcfae" />
+<img width="1056" height="556" alt="image" src="https://github.com/user-attachments/assets/0efd50a2-3012-48b3-b941-08d4a24f0004" />
 
 ## RESULT:
 The programs are executed successfully.
